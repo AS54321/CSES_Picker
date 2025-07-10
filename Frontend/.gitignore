@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+
+
+
+# The below ones are for just-in-case scenarios like npm build failing, api keys (.env)
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment variables
+.env
+
+# Editor & OS settings
+.vscode/
+
+# Optional lockfiles if you switch tools
+pnpm-lock.yaml
